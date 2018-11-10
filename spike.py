@@ -7,12 +7,17 @@ from git import Repo
 
 repo = Repo("~/workspace/hacksussex2018/")
 
-commit_list = repo.iter_commits('master')
+print(repo.)
+# commit_list = repo.iter_commits('master')
 
-for i in commit_list:
-    print(i.author)
-    print(i.author_date)
+# for i in commit_list:
+#     print(i.author)
+#     print(i.author_date)
+
+# def list_authors():
+# 	users = {}
 
 
-def commit_in_week():
-	pass
+# def commit_in_week():
+#     # if user has commit add one to user
+#     pass
