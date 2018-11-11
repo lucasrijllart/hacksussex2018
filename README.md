@@ -2,19 +2,8 @@
 
 This is the repo for our hack at the HackSussex 2018.
 
-## Plan
-Stage 1:
-- Research github API for repo history
-- Research Grafana for showing stats and graphs
-- Setup plan
+Github repo usage graphs by author over time and number of commits by author.
 
-Stage 2:
-- Collect historical usage info from repo
-- Organise data in table for easy access
-- Start Jupyter notebook with data collected
-- Start creating graphs from available data
+Also includes statistics on shortest commit message and converting commit messages to haikus.
 
-Stage 3:
-- Use API to collect repo data
-- Display information using grafana
-
+To run, you will need to link it to another local repo (we used github.com/lucasrijllart/sleep-wake)
