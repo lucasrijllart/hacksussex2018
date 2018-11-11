@@ -1,3 +1,5 @@
 gitpython
 tabulate
 pyphen
+pandas
+seaborn
